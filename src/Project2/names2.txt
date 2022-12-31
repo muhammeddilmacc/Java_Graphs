@@ -1,0 +1,20 @@
+16
+18
+muhammed ali 3
+muhammed bekir 6
+ali hülya 5
+hülya yasin 3
+hülya bekir 1 
+bekir feyza 6
+hülya ayşe 4
+ayşe bekir 8
+ayşe gizem 9
+rana meryem 6
+meryem erdem 7
+meryem burak 6
+erdem burak 5
+erdem gamze 4
+burak gamze 2
+gamze furkan 5
+furkan ercan 6
+ercan ferhat 9

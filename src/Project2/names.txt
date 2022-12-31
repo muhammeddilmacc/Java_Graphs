@@ -1,0 +1,12 @@
+11
+10
+ali zehra 1
+ali veli 4
+zehra sara 1
+sara ali 3
+aynaz taymaz 1
+aynaz solmaz 1
+ece solmaz 2
+ece taymaz 7
+sevgi sina 2
+sina rahim 2
